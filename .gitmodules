@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "RcmdrPlugin.KMggplot2"]
 	path = RcmdrPlugin.KMggplot2
 	url = https://github.com/cran/RcmdrPlugin.KMggplot2
-	shallow = true
-	registered = true
